@@ -1,0 +1,874 @@
+Alatyr' 
+Aleksandrova Sloboda 
+Aleksin 
+Andreev 
+Arkhangel'sk 
+Arvamas 
+Astrakhan 
+Azov 
+Bagut 
+Baia 
+Bakhchisarai 
+Bakota 
+Baku 
+Balakhna 
+Bania Rodna 
+Bar 
+Barduev 
+Baroch 
+Baruch 
+Barysau 
+Baseia 
+Bazavluk 
+Belaia Vezha 
+Belaia Vezhna 
+Belev 
+Belgorod 
+Belgorod Riazanskii 
+Beloberezh'e 
+Beloe Selo 
+Belozero 
+Beloozero 
+Belz 
+Bel'chitsa 
+Bendery 
+Benitsy 
+Berbend 
+Berestechko 
+Berest'e 
+Berevoi 
+Berezov 
+Berezyi 
+Bezhichi 
+Bezhitsy 
+Bezhitskii Verkh 
+Bialystok 
+Bilgorod 
+Bilhorod 
+Blestovit 
+Blets 
+Bleve 
+Bobrovnitsy 
+Bobruisk 
+Bogoliubov 
+Boguslavl' 
+Bokhmach 
+Boldyzh 
+Bologoe 
+Bolokhov 
+Bolshev 
+Boriso-Glebov 
+Borisoglebskaia Sloboda 
+Borisov 
+Borisov-Glebov 
+Borovsk 
+Bortnitsy 
+Bozhesk 
+Bozhskii 
+Braila 
+Braniewo 
+Bran' 
+Bratslav 
+Brest Litovsk 
+Briagin 
+Briansk 
+Brody 
+Bron 
+Bryn 
+Bulgar 
+Bulich 
+Bulichi 
+Buzhsk 
+Bykoven 
+Bylev 
+B'iakhan' 
+Caffa 
+Cembalo 
+Cetatea Alba 
+Cheboksary 
+Chelm 
+Chemerin 
+Cherdyn' 
+Cherkassii 
+Chernechesk 
+Chernesk 
+Chernigoga 
+Chernigov 
+Chernihiv 
+Chernobyl' 
+Chern'chesk 
+Chersoneus 
+Chersonesus 
+Chertoryisk 
+Cherven 
+Cherven' 
+Chichersk 
+Chiurnaev 
+Chmielnik 
+Chukhloma 
+Churnaev 
+Czerwien 
+Dankov 
+Daugavpils 
+Davidova 
+Debriansk 
+Dedogostichi 
+Dedoslavl' 
+Demenesk 
+Demon 
+Derbent 
+Derevich 
+Dernovoi 
+Deviagorsk 
+Dmitrov 
+Dmitrov Kievskii 
+Dobriatin 
+Dobrochkov 
+Dobryi 
+Dobryi Sot 
+Dobryn 
+Domagoshch 
+Donets 
+Dorogichin 
+Dorogobuzh 
+Dorostol 
+Dorpat 
+Driutesk 
+Driutsk 
+Drogichin 
+Drohiczyn 
+Drutsk 
+Duben 
+Dubintsa 
+Dubno 
+Dubok 
+Dubrovitsa 
+Dubrovitsy 
+Dubrovka 
+Durbe 
+Dveren 
+Elat'ma 
+Elblag 
+Elets 
+Elgava 
+Elna 
+El'na 
+Emenets 
+Eniseisk 
+Ez'sk 
+Frombork 
+Galich 
+Galich Merskii 
+Galych 
+Gdov 
+Gertsik 
+Gertsike 
+Glebl' 
+Glebov 
+Glukhov 
+Gnoinitsa 
+Golotichesk 
+Goltav 
+Gol'sk 
+Gomel' 
+Gomii 
+Goroden 
+Goroden Volynskii 
+Gorodets 
+Gorodets Meshcherskii 
+Gorodets Radilov 
+Gorodets Radilov na Volge 
+Gorodishche na Sare 
+Gorodno 
+Gorodok 
+Gorodok Volynskii 
+Gorodok na Ostre 
+Gorokhovets 
+Goroshin 
+Goshcha 
+Gostinichi 
+Grodna 
+Gubin 
+Gur'gev 
+Haji-bei 
+Halych 
+Hapsal 
+Homel' 
+Hoshcha 
+Hrodna 
+Iam 
+Iama 
+Iaropolch 
+Iaropolch' 
+Iaroslavl' 
+Iaroslavl' Galitskii 
+Iaryshev 
+Iasa 
+Iasenskoe 
+Iazhelbitsy 
+Ignach'-Krest 
+Igorevo Selo 
+Ilomanets 
+Ilukste 
+Isady 
+Isker 
+Iskona 
+Iskorosten' 
+Itil' 
+Iurichev 
+Iur'ev 
+Iur'ev-Pobol'skii 
+Iur'ev Pol'skii 
+Ivan 
+Ivan-gorod 
+Ivan-pogost 
+Ivangorod 
+Izborsk 
+Iziaslavl' 
+Iziaslavl' Galitskii 
+Izmail 
+Jaroslaw 
+Kadam 
+Kafa 
+Kaffa 
+Kaliningrad 
+Kaluga 
+Kamenets 
+Kamianets-Podil's'kyi 
+Kanev 
+Kankor 
+Kapan 
+Karachev 
+Karela 
+Kargopol' 
+Kashin 
+Kashlyk 
+Kasimov 
+Kasplia 
+Kaunas 
+Kazan' 
+Kekholm 
+Kem' 
+Kerch' 
+Kergedan 
+Ketrzyn 
+Khalep 
+Khersones 
+Khliapen' 
+Khlynov 
+Khmil'nyk 
+Khodynichi 
+Kholm 
+Kholmogory 
+Khorobor 
+Khorobor' 
+Khotshin 
+Kiazhta 
+Khvalimichi 
+Kideksha 
+Kiev 
+Kiliia 
+Kineshma 
+Kirillov 
+Klaipeda 
+Klechesk 
+Klin 
+Koenigsberg 
+Kola 
+Kolodiazhen 
+Kolomna 
+Kolomyia 
+Koltesk 
+Komov 
+Koponov 
+Kopor'e 
+Kopys 
+Kopys' 
+Kor'dio 
+Korchesk 
+Korech'sk 
+Korchev 
+Korela 
+Korsun 
+Korsun' 
+Korsun'-na-Rosi 
+Kosh-Kar 
+Kostroma 
+Kotel'nich 
+Kotel'nitsa 
+Kotlas 
+Kovno 
+Kozar' 
+Kozelsk 
+Kozel'sk 
+Krasn 
+Krasnyi 
+Krazhiai 
+Kremenets 
+Kremianets 
+Krevo 
+Krichev 
+Krom 
+Krull' 
+Krupl' 
+Ksniatin 
+Kuchelmin 
+Kudnovo Selo 
+Kukenois 
+Kulikovo 
+Kulikovo Pole 
+Kunil' 
+Kurba 
+Kurmysh 
+Kursk 
+Kwidzyn 
+Kysylyn 
+Ladoga 
+Ldishev 
+Lewartow 
+Liatychiv 
+Lidzbark 
+Listven 
+Liubachev 
+Liubech 
+Liubno 
+Liubutsk 
+Livny 
+Lobynsk 
+Lobyn'sk 
+Lodeinitsy 
+Logozhsk 
+Lomza 
+Lopastitsa 
+Ltava 
+Luben 
+Lublin 
+Lubno 
+Luchesk 
+Luchin 
+Luki Velikie 
+Lukoml' 
+Lukoml'skoe Gorodishche 
+Lutava 
+Lutsk 
+Luts'k 
+Lybuty 
+L'to 
+L'viv 
+L'vov 
+Mahiliou 
+Malbork 
+Malotin 
+Mangup 
+Marianichi 
+Matrega 
+Mazhevo Selo 
+Mchenesk 
+Medyn' 
+Memel 
+Menesk 
+Mensk 
+Men'sk 
+Mezchesk 
+Mezhibozh'e 
+Mezhimost'e 
+Michsk 
+Mich'sk 
+Mikhailov 
+Mikulin 
+Milcovia 
+Milesk 
+Miliniska 
+Minsk 
+Mogilev 
+Moklekov Galitskii 
+Mologa 
+Moncastro 
+Moravitsa 
+Moreva 
+Morova 
+Moroviisk 
+Mosal'sk 
+Moscow 
+Moskva 
+Mozhaiask 
+Mozhaisk 
+Mozyr' 
+Mstislavl' 
+Mtsensk 
+Munarev 
+Murav'in 
+Muravitsa 
+Murom 
+Murovinsk 
+Mutizhir 
+Myl'sk 
+Naliuch 
+Narva 
+Narym 
+Navahrudak 
+Nebl' 
+Nebolchi 
+Neiatin 
+Nekoloch' 
+Nemogardas 
+Nerekhta 
+Nerinsk 
+Nerin'sk 
+Nesvizh 
+Novoe Sarai 
+Nezhatin 
+Nezhegorod 
+Niasvizh 
+Nikola-Zarazskii 
+Nikulitsyn 
+Nimikori 
+Nizhnii Novgorod 
+Nosov 
+Novgorod 
+Novgorod Nizhnii 
+Novgorod Severskii 
+Novgorod Sviatopolch 
+Novgorod Velikii 
+Novgorodok Litovskii 
+Novogrudok 
+Novosil 
+Novosil' 
+Novyi Torg 
+Nizhyn 
+Obdorsk 
+Obolv' 
+Obolensk 
+Obrov 
+Obskii Gorodok 
+Obskiigorodok 
+Ochakov 
+Odoev 
+Odrsk 
+Olbia 
+Olesh'e 
+Olonets 
+Ol'gov 
+Ol'gov Novyi Gorodok 
+Ol'zhitsi 
+Onut 
+Opochka 
+Oprosh 
+Orlov 
+Orekhov 
+Orel 
+Orel'sk 
+Oreshek 
+Orgoshch 
+Ormina 
+Ornas 
+Orsha 
+Orzhitsa 
+Oskol 
+Osterskii Gorodets 
+Ostrog 
+Ovruch 
+Ozhsk 
+Paleostrovsk 
+Panivtsi 
+Paozero 
+Patsin 
+Patsyn' 
+Pelym 
+Pereiaslavets 
+Pereiaslavl'-Riazanskii 
+Pereiaslavl' Russkii 
+Pereiaslavl' Zalesskii 
+Perekop 
+Peremid' 
+Peremil' 
+Peremyshl' 
+Peresechen 
+Peresolnitsa 
+Perevitsk 
+Perevolochna 
+Perevoloka 
+Perm 
+Pesochen 
+Piarnu 
+Piatra Neamt 
+Pinega 
+Pinsk 
+Piriatin 
+Piten 
+Plav 
+Plesensk 
+Plesnesk 
+Pleso 
+Podol 
+Pogonovichi 
+Pogost Iuskola 
+Pogost Ivan' 
+Pogost Kukueva gora 
+Pogost Lipna 
+Pogost Masnega 
+Pogost-na-More 
+Pogost Olon's' 
+Pogost Pinega 
+Pogost Pinera 
+Pogost Poma 
+Pogost Puita 
+Pogost Rakul' 
+Pogost Sabel' 
+Pogost Svir' 
+Pogost Tervinichi 
+Pogost Toima 
+Pogost Tudovor 
+Pogost Ust'-Emets 
+Pogost Ust'-Vaga 
+Pogost Vel' 
+Pogost Volok na Mshi 
+Polatsk 
+Polkosten 
+Polksten' 
+Polonnyi 
+Polonoi 
+Polotsk 
+Poltesk 
+Pomezania 
+Pomozdin Pogost 
+Popash' 
+Poragopustets 
+Porkhov 
+Pos. Pyban'sk 
+Posechen 
+Posotina 
+Potsin 
+Poznan 
+Preslav 
+Preslavets 
+Presnensk 
+Priluk 
+Pronsk 
+Proposhesk 
+Prozorovo 
+Prupoi 
+Przemysl 
+Pskov 
+Pudozhskoi 
+Pultusk 
+Pustozerskii Ostrog 
+Putivl' 
+Radauti 
+Radogoshch 
+Radonezh 
+Radoshch 
+Raguilov 
+Rakoma 
+Razdory 
+Rechitsa 
+Rei 
+Reszel 
+Reval 
+Ria 
+Riapolovo 
+Riazan' 
+Riazhsk 
+Riga 
+Rimov 
+Roden 
+Rodnia 
+Rogachev 
+Rogisdino 
+Rogov 
+Roman 
+Romanov 
+Romen 
+Ropesk 
+Roslavl 
+Rostislavl' 
+Rostov 
+Rostovets 
+Rosukha 
+Rozan 
+Rsha 
+Rusa 
+Rustovets 
+Ruza 
+Ryl'sk 
+Rzev 
+Rzhev 
+Rzhevka 
+S. Meltenovo 
+Sakov 
+Samara 
+Sambir 
+Sandomierz 
+Sanok 
+Sansin 
+Sapogyn' 
+Sarai 
+Sarai-Berka 
+Saratov 
+Sarkel 
+Sarskaia 
+Sartakha 
+Sebezh 
+Sech 
+Seiiazhsk 
+Selpils 
+Semender 
+Semenov 
+Semots 
+Semyn' 
+Semych 
+Sepukhov 
+Serebrianyi 
+Sereger 
+Serensk 
+Serpeisk 
+Sevsk 
+Sharukan' 
+Shatsk 
+Shchekarev 
+Sheki 
+Shemakha 
+Shenkursk 
+Shepol' 
+Shestakov 
+Shiauliai 
+Shiluva 
+Shuia 
+Shuiskaia 
+Shumsk 
+Siauliai 
+Sibir 
+Sich 
+Silistria 
+Sinel'sk 
+Siniia Most 
+Siret 
+Slobodskoi 
+Slonim 
+Sluchesk 
+Slutsk 
+Smolensk 
+Smotrych 
+Snovsk 
+Soldaia 
+Solkhat 
+Solodovintsy 
+Sologyn' 
+Solovetskii 
+Sol' Kamskaia 
+Sol' Velikaia 
+Sol' Vychegodskaia 
+Sorskii 
+Sosnitsa 
+Spash 
+Spaso-Kamennyi 
+Staraia Rusa 
+Staraia Ladoga 
+Staritsa 
+Starodub 
+Starodub Riapolovskii 
+Starodub Severskii 
+Stolp'e 
+Strezhev 
+Subak 
+Suceava 
+Sugrov 
+Sumskii Ostrog 
+Surgut 
+Surozh 
+Suteisk 
+Suzdal' 
+Sviatoslavl' 
+Sviiazhsk 
+Svinort 
+Svinukhi 
+Sviril'sk 
+Syzran' 
+Tabriz 
+Talinn 
+Tana 
+Tanais 
+Tannenberg 
+Tara 
+Tartu 
+Tarusa 
+Tatinets 
+Tebriz 
+Teliutsy 
+Temnikov 
+Terebovlia 
+Terebovl' 
+Terskii Gorodok 
+Teshilov 
+Tesov 
+Tetiushi 
+Tighina 
+Tikhomel' 
+Tikhoml' 
+Tismianitsa 
+Tiumen' 
+Tlebov 
+Tmutarakan' 
+Tobol'sk 
+Tolmach' 
+Tomakivka 
+Torchesk 
+Torchev 
+Toropets 
+Torun 
+Torzhok 
+Totma 
+Tovarov 
+Trakai 
+Trepol' 
+Tripol' 
+Trubchevsk 
+Trubech 
+Trubetsk 
+Truso 
+Tsaritsyn 
+Tsar'gorod 
+Tula 
+Tumashch' 
+Turau 
+Turiisk 
+Turov 
+Tver' 
+Tysmainitsa 
+Ufa 
+Ugleche Pole 
+Uglich 
+Ugrovesk 
+Ukani 
+Ukek 
+Ukhtoma 
+Unenezh 
+Unzha 
+Ushesk 
+Ushitsa 
+Ust-Nem 
+Ustilog 
+Ustiug 
+Ustiug Velikii 
+Ustiuzhna 
+Ust'-Emtsa 
+Ust'-Pashi 
+Ust'-Tsil'ma 
+Ust'-Vaga 
+Ust'-Vym' 
+Ust'e 
+Usviat 
+Uvetichi 
+Uzmen 
+Valaam 
+Valaamskii 
+Valuiki 
+Varguza 
+Varin 
+Varniai 
+Vasilev 
+Vasilev Galitskii 
+Vasilev Smolenskii 
+Vasil'ev 
+Vasil'sursk 
+Vekshchen'ga 
+Velikie-Luki 
+Velikii Ustiug 
+Venitsa 
+Vereia 
+Vereshchin 
+Verkh 
+Verkhne-Chusovskii 
+Verkhnii Chusovskii 
+Verkhoture 
+Verkhotur' 
+Verkhovsk 
+Vernev 
+Verzhavsk 
+Vetskaia 
+Viashnia 
+Viatka 
+Viazma 
+Viaz'ma 
+Viipuri 
+Vilna 
+Vilnius 
+Vil'iandi 
+Vinnytsia 
+Vitebsk 
+Vitembsk 
+Vitsebsk 
+Vitichev 
+Vitrik 
+Vizna 
+Vladimir 
+Vladimir-na-Kliaz'ma 
+Vlodava 
+Vobonitsa 
+Voiadoutov Pogost 
+Voin' 
+Voldutovpogost 
+Voldyzh 
+Volkovyisk 
+Volodarev 
+Volodymyr 
+Vologda 
+Volok Lamskii 
+Volok Slovinskii 
+Voloklamskii 
+Volokolamsk 
+Volyn' 
+Voni 
+Vorobiin 
+Vorob'in 
+Voronazh' 
+Voronezh 
+Vorotynsk 
+Vosporo 
+Vosviach' 
+Vovogrudok 
+Vrochnitsy 
+Vruchi 
+Vruchii 
+Vsevolozh 
+Vsevolozh Chernigovskii 
+Vshchizh 
+Vyborg 
+Vygoshev 
+Vyr' 
+Vyshegrad 
+Vyshgorod 
+Vyshnii Volochek 
+Vzdvizhen' 
+V'iakhan' 
+Warmia 
+Zapol'skii Iam 
+Zaporozh'e 
+Zarechesk 
+Zaroi 
+Zartyi 
+Zarub 
+Zarytyi 
+Zbarazh 
+Zbyrazh 
+Zdvizhden' 
+Zennia Velikaia 
+Zhabachev 
+Zhelan' 
+Zheldi 
+Zheldia 
+Zhelian' 
+Zhelni 
+Zhelnii 
+Zhidchichi 
+Zhidichin 
+Zhitomir 
+Zhizhets 
+Zhmuda 
+Zhytomyr 
+Zopish 
+Zubtsov 
+Zvenigorod 
+Zvenigorod Chervenskii 
+Zvenigorod Kievskii 
+Zvizhden 

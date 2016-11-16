@@ -1,0 +1,10 @@
+*.csproj
+*.unityproj
+*.pidb
+#*#
+*~
+Temp/
+Library/
+*.sln
+*.userprefs
+Concept/
